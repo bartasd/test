@@ -3,4 +3,21 @@
     height: 100vh;
     width: 100vw;
     background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gameboard
+{
+    height: 100vh;
+    width: 100vw;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.invisible{
+    display: none;
 }
